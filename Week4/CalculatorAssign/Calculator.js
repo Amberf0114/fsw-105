@@ -29,6 +29,3 @@ function calculator(a,b,c) {
     }
 }
 console.log("Result is: " + calculator(num1,num2,enteredOperator));
-
-// Tutor Question: Will not execute...do I need a,b in calculator function? is the + '' necessary in my readline statements?
-// Is my enteredOperator storing the value add for me to use it in the if statement?
